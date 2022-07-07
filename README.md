@@ -1,2 +1,2 @@
-# Team2FakeAPI_DemoBlaze
+# Team7FakeAPI_DemoBlaze
 For demonstration purpose
